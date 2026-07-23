@@ -1,0 +1,25 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA trans
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 4 rows from DATALINES.
+NOTE: Wrote trans (4 rows, 1 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA master
+
+NOTE: Processing inline DATALINES (3 lines)
+
+NOTE: Read 3 rows from DATALINES.
+NOTE: Wrote master (3 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=trans
+
+NOTE: PROC PRINT completed: 4 observations printed, 1 variables
+NOTE: PROC PRINT data=master
+
+NOTE: PROC PRINT completed: 3 observations printed, 3 variables

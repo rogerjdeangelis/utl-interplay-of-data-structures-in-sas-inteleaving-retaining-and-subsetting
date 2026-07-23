@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_inputs_char",
+  "source_file": "utl-interplay-of-data-structures-in-sas-inteleaving-retaining-and-subsetting.sas",
+  "source_blob_sha": "cbf2f13ac735c876c6e0678b0a40af5522b16099",
+  "source_commit": "55c6cc4807bf70ae75603cbb3332ff6f25497df3",
+  "notes": "Character-string date variant: builds MASTER (cards4, $11. informat) and TRANS ($11. + @@ line-hold) exactly as documented (MASTER obs=3, TRANS obs=4), then PROC PRINT. No path/libname needed (libname sd1 only appears in the writeup's commented INPUTS block; runnable code uses WORK). Derived verbatim from the repo's data-construction steps."
+}

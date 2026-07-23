@@ -1,0 +1,14 @@
+                                      TRANS - transaction dates as SAS date values
+
+  Obs       date
+    1  03JUL2024
+    2  04AUG2024
+    3  10AUG2024
+    4  11AUG2024
+
+                                    MASTER - date ranges by CODE as SAS date values
+
+  Obs  code  startdate    enddate
+    1  a     01JUL2024  03AUG2024
+    2  b     06AUG2024  10AUG2024
+    3  c     11AUG2024  31AUG2024
